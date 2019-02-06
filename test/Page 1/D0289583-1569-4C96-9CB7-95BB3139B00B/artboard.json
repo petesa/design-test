@@ -52,6 +52,10 @@
     {
       "class": "rectangle",
       "id": "B71D9A59-7FA5-406E-BF28-AA20908A8621"
+    },
+    {
+      "class": "group",
+      "id": "8FB8A7C9-DE23-40FE-9C34-9D509BB0DC3F"
     }
   ],
   "name": "iPhone 8",
